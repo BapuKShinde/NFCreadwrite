@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NFCApp</string>
+    <string name="txt_nfc_app">Enter data: </string>
+    <string name="txt_12"> </string>
+    <string name="txt_13"> </string>
+    <string name="txt_14"> </string>
+    <string name="btn_read">Read</string>
+    <string name="btn_read_uid">Read UID</string>
+    <string name="btn_write">Write</string>
+    <string name="exit">Exit</string>
+    <string name="app_info">App Info</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

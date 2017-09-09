@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:text="Name: NFC Read Write App"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:text="Certificate: VeriSign secured"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff"/>
+    <TextView
+        android:id="@+id/textVersion"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:text="Version: V - 1.0.0"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:text="Contact: info@infoteksoftware.com"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:text="Release Date: 09-Jan-2017"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:text="Design &amp; developed by: i-Tek Software &amp; System (P) LTD"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff"/>
+</LinearLayout>
